@@ -122,3 +122,5 @@ The following analysis was performed:
 The SVM model successfully classified the dataset with high accuracy. Proper preprocessing, scaling, and visualization contributed to improved model performance.
 
 ---
+Auther
+manasa muraleedharan.e
